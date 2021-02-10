@@ -1,0 +1,16 @@
+Analyse du site de la commune d'attignat
+
+
+
+- Menu bien distinct et définit
+- Pas de meta description sur toute les pages
+- accées a toute les informations importantes du site sans js
+- pas de alt sur toute les photos
+- dans head une multitides de fichier css pour quasi chaque rubrique
+- performances correctes
+- en version mobile menu burger beaucoup trop gros , cela gache le design
+- En page d'acceuil a cause du slide qui reste tout le temps on a du mal a distinguer si on change bien de page
+-Dans head, script tarteaucitron ?
+- Performance mobile 43 contre 63 version desktop
+- accessibilité 88 en mobile et 82 en desktop
+- N° de tél cliquable en page d'accueil mais ne déclanche rien
