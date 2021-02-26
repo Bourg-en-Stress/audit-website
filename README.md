@@ -16,3 +16,10 @@
 - Lucas 19/02/2021 : [nasa](https://www.nasa.gov/)
 - Thierry 22/02/2021 : [spacex](https://www.spacex.com/)
 - Cyril 23/02/2021 : [Ben the bodyguard](https://benthebodyguard.com/)
+- Souad 25/02/2021 : [Nestlé jp](https://shop.nestle.jp/front/contents/machine/ics/)
+- Amanda 26/02/2021 :
+	- [the 100 meter scroll](https://the100meterscroll.com/)
+	- [la fripouille](https://www.lafripouille.fr/) 
+	- [google fight](https://www.googlefight.fr/)
+	- [futureme](https://www.futureme.org/)
+	- [stuff in space](http://stuffin.space/?intldes=1988-053B)
