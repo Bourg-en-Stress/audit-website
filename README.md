@@ -23,10 +23,25 @@
 	- [google fight](https://www.googlefight.fr/)
 	- [futureme](https://www.futureme.org/)
 	- [stuff in space](http://stuffin.space/?intldes=1988-053B)
--Souad 02/03/2021 : [portait chinois](https://wwww.portrait-chinois.com/)
--Amanda 03/03/2021 : [cours développement web Pierre Giraud](https://wwww.pierre-giraud.com/)
+- Souad 02/03/2021 : [portait chinois](https://wwww.portrait-chinois.com/)
+- Amanda 03/03/2021 : [cours développement web Pierre Giraud](https://wwww.pierre-giraud.com/)
 - Thierry 04/03/2021 : 
 	- [cable sous-marin](https://wwww.submarinecablemap.com)
 	- [Quadrature du net](https://wwww.laquadrature.net)
 	- [collectif des Hébergements Alternatifs,Transparent,Ouverts,Neutres et Solidaires](chatons.org)
 	- [association de promotipon du logiciel libre](https://wwww.framasoft.org) 
+- Souad 05/03/2021 :
+	- [générateur de bandes dessinées](http://www.stripcreator.com/make.php)
+	- [générateur de codes promo](https://wanteeed.com/fr/boutiques)
+	- [générateur de mails temporaires](https://10minutemail.com/)
+	- [génerateur de noms](https://le-bon-site.blogspot.com/2009/05/generateur-de-nom.html)
+	- [Braining jeux entraînement cérébral](http://fr.ibraining.com/locate/#)	
+	- [Création escape game](https://scape.enepe.fr/)
+	- [Ecrire des histoires interactives](https://www.inklewriter.com/)
+	- [Tracker suivi des prix Amazon](https://fr.camelcamelcamel.com/)
+	- [Création de sites web 100% gratuit](google drive)
+
+
+
+			
+
